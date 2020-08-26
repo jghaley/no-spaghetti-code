@@ -27,7 +27,7 @@ We work in a large collaboration so that we read/use each other's codes very oft
 
 <img src="{{ page.root }}/fig/Sadness.jpg" alt="My lunch conversation compositions:" width="90%" /> 
 
-Ok that is a bit exaggerated but software is indeed important for us. In this mini section we are not gonna tell you everything you need to know about writing elegant codes but rather share our experience working with software in ATLAS. Hopefully in the end we could convince you that it is worth thinking about this. 
+Ok that is a bit exaggerated but software is indeed important for us. We gathered feedback from many people and extracted several simple axioms. It is interesting that we all have agreed on those simple things despite various backgrounds. In this mini section we are not gonna tell you everything you need to know about writing elegant codes but rather share our experience working with software in ATLAS. Hopefully in the end we could convince you that it is worth thinking about this.   
 
 ## Why care about good code?[^2]
 
