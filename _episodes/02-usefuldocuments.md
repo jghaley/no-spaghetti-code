@@ -21,5 +21,9 @@ The ATLAS computing team has many useful documenations (twiki pages, slides, not
 
 Of course there are more available. If you have any questions you can also ask via the mailing lists: [hn-atlas-PATHelp@cern.ch](mailto:hn-atlas-PATHelp@cern.ch) (Physics Analysis Tools) and [hn-atlas-offlineSWHelp@cern.ch](mailto:hn-atlas-offlineSWHelp@cern.ch) (mainly Athena).
 
+## Internet
+
+There are always answers to any coding problems on the Internet. We hope this bootcamp has expanded your ATLAS related coding vocabulary so that you can acquire your answers easier and faster. 
+
 {% include links.md %}
 
