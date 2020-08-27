@@ -21,6 +21,7 @@ The first recipe I got after joining ATLAS was:
 ~~~
 "Copy my folder on lxplus to your directory and follow the README there. Do not use the version on GitLab, it does not work"
 ~~~
+{: .source}
 
 We hope this will not be the recipe you will share with your colleagues:).
 

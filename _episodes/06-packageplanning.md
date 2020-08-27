@@ -1,6 +1,6 @@
 ---
 title: "Design Your Package"
-teaching: 5
+teaching: 10
 exercises: 0
 questions:
 - "When and how to design a package efficiently."
@@ -29,6 +29,7 @@ Let's have a quick brain storming section:
 ~~~
 "What are the most common requests or comments one would receive during meetings that may require software change?"
 ~~~
+
 
 Change the binning? Extend the binning? Add a histogram? Update CP recommendations? Add a ratio panel? Submitting grid jobs? Babysitting grid jobs?.....
 

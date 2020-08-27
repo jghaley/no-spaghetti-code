@@ -19,6 +19,7 @@ Quotes from a colleague:
 "I did something quick and dirty in my code, wrote it down in my notebook (physical notebook). Now I have problems when using my code and I want to check what I did before. Guess what, I left my notebook at CERN and I could not go back!"
 ~~~
 
+
 An Instagram post from a friend when she was on VACATION:
 
 <img src="{{ page.root }}/fig/ArtOne.jpg" alt="Art is everywhere?" width="50%" />

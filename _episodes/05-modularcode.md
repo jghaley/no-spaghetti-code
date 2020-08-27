@@ -16,11 +16,12 @@ We work in a large collaboration and very likely when we need some functions in 
 
 ## ROOT has a lot of stuffs
 
-QUestion:
+Question:
 
 ~~~
 "Have you created some functions and later on realized that ROOT already has them?"
 ~~~
+
 
 Nowadays there are more well maintained packages to use so look around!
 
