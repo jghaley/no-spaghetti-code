@@ -17,7 +17,7 @@ keypoints:
 
 > ## Before you start writing code
 >
-> take a deep breath... and get a blank sheet of paper
+> Take a deep breath... and get a blank sheet of paper
 >
 {: .callout}
 
@@ -54,6 +54,17 @@ The class diagram is a structural diagram. The purpose of class diagram is to mo
 <img src="{{ page.root }}/fig/uml_class_diagram.jpg" alt="Sidebar" height="350px" style="float:center" />
 
 
+#### Interaction diagram 
+
+The purpose of interaction diagrams is to visualize the interactive behavior of the system. Visualizing the interaction is a difficult task. Hence, the solution is to use different types of models to capture the different aspects of the interaction.[^1]
+
+One of these models, shown below, is called the sequence diagram which captures the time sequence of the message flow from one object to another.
+
+<img src="{{ page.root }}/fig/uml_sequence_diagram.jpg" alt="Sidebar" height="350px" style="float:center" />
+
+<br>
+
+You don't have to learn how these diagrams work right now, but it's good to know that they exist. When you're staring at a blank piece of paper trying to figure out how to design your code, take a look at the [UML tutorial](https://www.tutorialspoint.com/uml/) because chances are, theres a useful model to follow.
 
 [^1]: Taken from [tutorialspoint.com/uml](https://www.tutorialspoint.com/uml/)
 
