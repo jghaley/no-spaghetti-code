@@ -30,7 +30,7 @@ Let's have a quick brain storming section:
 "What are the most common requests or comments one would receive during meetings that may require software change?"
 ~~~
 
-Change the binning? Extend the binning? Add a histogram? Update CP recommendations? Add a ratio panel?.....
+Change the binning? Extend the binning? Add a histogram? Update CP recommendations? Add a ratio panel? Submitting grid jobs? Babysitting grid jobs?.....
 
 Well if you have a list let's try to make our software able to do those things easily.
   
