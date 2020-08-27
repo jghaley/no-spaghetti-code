@@ -18,6 +18,10 @@ We work in a large collaboration and very likely when we need some functions in 
 
 ## Functions are better than copy/paste 
 
+Prrof of concept:
+
+<img src="{{ page.root }}/fig/function.jpg" alt="Loop!" width="50%" />
+
 ## We can use multiple files.
 
 {% include links.md %}
