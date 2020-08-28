@@ -25,6 +25,10 @@ Question:
 
 Nowadays there are more well maintained packages to use so look around!
 
+But be careful of the pitfalls:
+
+<img src="{{ page.root }}/fig/Recursion.jpg" alt="Elegance!" width="50%" />
+
 ## Functions are better than copy/paste 
 
 Prrof of concept:
