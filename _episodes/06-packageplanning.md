@@ -8,6 +8,7 @@ objectives:
 - "Understand when designing a program can be useful."
 - "Learn that UML exists"
 keypoints:
+- "Modeling is the designing of software applications before coding."
 - "Layout the diagrams on paper."
 - "Think about the expected users."
 - "Consolidating standalone scripts."
