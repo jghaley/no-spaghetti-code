@@ -23,9 +23,12 @@ The infrastructures/softwares keep evolving (slc5 -> slc6 -> centos7, Athena Rel
 
 Having it compiled is not the end goal as we want the results to be meaningful ultimately. So it is better to test the whole work flow. 
 
-CI saves the day!
-
 It feels really great when everything just works out of the box after following the recipes in the README.  
+
+### CI saves the day!
+
+The best tool for this is continuous integration (CI) testing on GitLab (or GitHub). Using Docker images, you can perform tests on many emulate platforms. Remember to look back at the [CI/CD tutorial](https://kratsg.github.io/2020-08-24-usatlas-computing-bootcamp/) if you need a reminder of how to get started with this.
+
 
 {% include links.md %}
 
