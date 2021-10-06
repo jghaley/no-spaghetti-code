@@ -5,7 +5,7 @@ exercises: 0
 questions:
 - "Why should we make our code portable?"
 objectives:
-- ""
+- "Learn ways to improve protability."
 keypoints:
 - "Use relative path and environment variables."
 - "Test it often."
