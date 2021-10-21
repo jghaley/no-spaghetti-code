@@ -59,7 +59,11 @@ There are many articles defining how and why to write a good commit message ([he
 
 #### Merge requests
 
-Merge requests in GitLab (and pull requests in GitHub) are some of the most powerful tools for collaboration and ensuring good practices are followed. You should _always_ make a merge request when submitting a significant change to a code base used by multiple people. Merge requests give other developers the opportunity to comment on your code, make suggestions, and review your work.
+Merge requests in GitLab (and pull requests in GitHub) are some of the most powerful tools for collaboration and ensuring good practices are followed. You should _always_ make a merge request when submitting a significant change to a code base used by multiple people. 
+Merge requests give other developers the opportunity to
+* comment on your code, 
+* make suggestions, and 
+* review your work.
 
 #### Code reviews
 
