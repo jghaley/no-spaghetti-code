@@ -74,7 +74,7 @@ __[Code reviews](https://www.atlassian.com/agile/software-development/code-revie
 * Does the new code conform to existing style guidelines?"
 (- [Code reviews](https://www.atlassian.com/agile/software-development/code-reviews))
 
-They are one of the best tools for mentoring new developers. Merge requests are the core structures for code reviews. They enable comments on individual lines of code, and keep a record of discussion about how a decision was reached. You are encouraged to a) review any code that someone writes to your repository and b) request than any code you push to a repository is looked over by a colleague.
+They are one of the best tools for mentoring new developers. **Merge requests** are the core structures for code reviews. They enable comments on individual lines of code, and keep a record of discussion about how a decision was reached. You are encouraged to (a) review any code that someone writes to your repository and (b) request than any code you push to a repository is looked over by a colleague.
 
 <a href="https://oroinc.com/orocrm/blog/performing-efficient-code-review-part-i-best-practices/">
   <img src="{{ page.root }}/fig/code-review-best-practices.png" alt="Formatting Rules" height=300px/>
