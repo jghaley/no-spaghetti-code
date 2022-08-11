@@ -60,7 +60,7 @@ This can include:
 * Simplifying logical expressions
 * Removing duplicated code
 * Replacing unclear variable names with clearer ones
-* Improving C++ functions for more efficient compiling/running (virtual, static, constant, etc.)
+* Improving [C++ functions](https://www.scaler.com/topics/cpp/functions-in-cpp/) for more efficient compiling/running (virtual, static, constant, etc.)
 * Re-writing a loop to be more efficient
 * Including checks for undesired inputs (e.g. null pointers, edge cases)
 
